@@ -24,7 +24,7 @@ Below are some screenshots of the Power BI dashboard:
 
 
 ## Presentation
-- The detailed project presentation can be found [here](ICC_T20_2024_Player_Analysis.pptx).
+- The detailed project presentation can be found [here] [ICC-World-T20-2024-Player-Analysis.pptx](https://github.com/user-attachments/files/16825708/ICC-World-T20-2024-Player-Analysis.pptx)
 
 ## Conclusion
 This project successfully demonstrates how data analysis can be applied in the sports industry, specifically in cricket, to make informed decisions regarding team selection. The Power BI dashboard not only provides an in-depth look at player performance but also aids in creating a balanced and strategic Final 11. The insights derived from this analysis can significantly contribute to achieving success in the ICC World T20 2024.

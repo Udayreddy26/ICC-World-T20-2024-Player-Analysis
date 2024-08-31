@@ -15,8 +15,9 @@ This project analyzes player performances in the ICC World T20 2024 using Power 
 Below are some screenshots of the Power BI dashboard:
 
 [Dashboard Overview]
-![Overview](https://github.com/user-attachments/assets/3e87b73f-ae60-425d-8d47-9268e410c92a)
 
+
+![Uploading Overview.jpg…]()
 
 
 
